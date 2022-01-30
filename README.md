@@ -1,8 +1,8 @@
-<h2 align="center">👋Hello World, I am Manvitha Roy</h2>
-<p align="center">B.Tech CSE @ <strong>NIT Patna</strong></p>
-<p align="center">Open source enthusiastic</p>
+<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello World, I am Manvitha Roy</h2>
+<p align="center">⚡B.Tech CSE @ <strong>NIT Patna⚡</strong></p>
+<p align="center">Open source enthusiastic👯</p>
 <hr>
-<p align="center">My Data Structures and Algorithms Coding Platforms</p>
+<p align="center">🌱My Data Structures and Algorithms Coding Platforms</p>
 <p align="center">
 	<code>
 		<a style="text-decoration: none" href="https://leetcode.com/manviroy12/" target="_blank">
@@ -35,7 +35,7 @@
 		</a>
 	</code>
 </p>
-<h2 align="center">If You Want To Collaborate, I'm Availabe On</h2>
+<h2 align="center">🌱If You Want To Collaborate, I'm Availabe On</h2>
 <p align="center">
 	<code>
 		<a style="text-decoration: none" href="https://www.linkedin.com/in/kopparapu-venkata-naga-manvitha-roy-b656381b4/" target="blank">
