@@ -1,144 +1,51 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello World, I am Manvitha Roy</h2>
 <p align="center">⚡B.Tech CSE @ <strong>NIT Patna⚡</strong></p>
 <p align="center">Open source enthusiastic👯</p>
-<hr>
-<p align="center">🌱My Data Structures and Algorithms Coding Platforms</p>
+
+# 🌸About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Back end development.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at manvitharoyal110@gmail.com ! I'll try to respond as soon as I can.
+
+# 💻Tech Stack 🛠
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Html](https://img.shields.io/badge/-Html-000?&logo=html5)
+![Node js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Express_js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![pOSTMAN](https://img.shields.io/badge/-Postman-05122A?&logo=postman)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?&logo=visual-studio-code&logoColor=007396)&nbsp;
+![Spyder](https://img.shields.io/badge/-Spyder-05122A?&logo=spyder-ide)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?&logo=android-studio)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?&logo=firebase)
+![MYSQL](https://img.shields.io/badge/-Mysql-05122A?&logo=MySQL)
+![Canva](https://img.shields.io/badge/-Canva-05122A?&logo=canva)
+# 😊My Coding Platforms
 <p align="center">
-	<code>
-		<a style="text-decoration: none" href="https://leetcode.com/manviroy12/" target="_blank">
-			<img
-				src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-				alt="html5"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://auth.geeksforgeeks.org/user/snipperwolf/practice/" target="_blank">
-			<img
-				src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png"
-				alt="html5"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://www.codechef.com/users/manuroy12" target="_blank">
-			<img
-				src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4"
-				alt="html5"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
+<a href="https://auth.geeksforgeeks.org/user/snipperwolf/practice/"><img src="https://img.shields.io/badge/-gfg-3423A6?&logo=geeksforgeeks&logoColor=white" width="50"/></a>
+<a href="https://www.codechef.com/users/manuroy12"><img src="https://img.shields.io/badge/-codechef-BD081C?&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/manviroy12/"><img src="https://img.shields.io/badge/-leetcode-0077B5?&logo=leetcode&logoColor=white" height="19"/></a>
+	<a href="https://www.hackerrank.com/manvitharoyal201"><img src="https://img.shields.io/badge/-Hackerrank-D14836?&logo=hackerrank&logoColor=white" height="19" /></a>
 </p>
-<h2 align="center">🌱If You Want To Collaborate, I'm Availabe On</h2>
+
+# 🤝🏻If You Want To Collaborate, I'm Availabe On
 <p align="center">
-	<code>
-		<a style="text-decoration: none" href="https://www.linkedin.com/in/kopparapu-venkata-naga-manvitha-roy-b656381b4/" target="blank">
-			<img
-				src="https://www.loginhit.com.ng/wp-content/uploads/2019/09/LinkedIn-1.jpg"
-				alt="Vivek kumar linkedin"
-				height="40"
-				width="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="mailto:manvitharoyal110@gmail.com" target="blank">
-			<img
-				src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
-				alt="Vivek kumar gmail"
-				height="40"
-				width="40"
-			/>
-		</a>
-	</code>
+<a href="https://www.linkedin.com/in/kopparapu-venkata-naga-manvitha-roy-b656381b4/"><img src="https://img.shields.io/badge/-Linkedln-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:www.manvitharoyal110@gmail.com"><img src="https://img.shields.io/badge/-Manvitharoy-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://manvitha757014665.wordpress.com/"><img src="https://img.shields.io/badge/-manvi-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
-<br />
-<h2 align="center">I'm Familiar With</h2>
-<p align="center">
-	<code>
-		<a style="text-decoration: none" href="https://www.w3.org/html/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
-				alt="html5"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://www.w3schools.com/css/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"
-				alt="css3"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://getbootstrap.com" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
-				alt="bootstrap"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://reactjs.org/" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://nodejs.org" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" />
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://expressjs.com" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
-				alt="express"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://heroku.com" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://www.mongodb.com/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-				alt="mongodb"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://www.python.org/" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
-		</a>
-	</code>
-  <code>
-		<a style="text-decoration: none" href="https://in.mathworks.com/" target="_blank">
-			<img src="https://png.pngitem.com/pimgs/s/511-5117629_logo-matlab-hd-png-download.png" width="40" height="40" />
-		</a>
-	</code>
-</p>
-<hr />
-<br />
+
 <p align="center">
 	<img
 		src="https://github-readme-stats.vercel.app/api?username=manvitharoy123&show_icons=true&locale=en&theme=radical&count_private=true"
